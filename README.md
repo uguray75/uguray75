@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Uğur Aydın</h1>
-<h3 align="center">A passionate Aİ student from Turkey</h3>
+<h3 align="center">A passionate AI student from Turkey</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=uguray75&label=Profile%20views&color=0e75b6&style=flat" alt="uguray75" /> </p>
 
