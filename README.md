@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Uğur Aydın</h1>
 <h3 align="center">I'm currently studying at Yıldız Techincal University, Electrical Engineering Department.</h3>
-<h3 align="center">I recently started learning programming. I'm interested in artificial intelligence </h3>
+<h3 align="center">I'm interested in artificial intelligence </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=uguray75&label=Profile%20views&color=0e75b6&style=flat" alt="uguray75" /> </p>
 
