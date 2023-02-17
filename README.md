@@ -1,4 +1,9 @@
-<h1 align="center">Hi 👋, I'm Uğur Aydın</h1>
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello!;I+am+Uğur.&center=true&size=25">
+  </a>
+</h1>
+
 <h3 align="center">I'm currently studying at Yıldız Techincal University, Electrical Engineering Department.</h3>
 <h3 align="center">I'm interested in artificial intelligence </h3>
 
